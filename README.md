@@ -21,4 +21,4 @@ There are three private functions used for finding and updating the individual c
 
 https://ropsten.etherscan.io/address/0xbd9fd200b77bf6d19a36a697e6b8f7fd52f476ac
 
-
+created by Vedran Tepavcevic
